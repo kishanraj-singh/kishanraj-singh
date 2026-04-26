@@ -20,7 +20,7 @@ I'm passionate about building amazing applications and contributing to the open-
 ---
 
 ### **About My Journey** 
-I am a passionate full stack developer and a class 12 student from Uttar Pradesh, India. I am excited to learn and explore new technologies and share my knowledge with others. 
+I am a full stack developer and a class 12 student from Uttar Pradesh, India. I am excited to learn and explore new technologies and share my knowledge with others. 
 
 ---
 
